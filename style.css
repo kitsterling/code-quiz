@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(15, 132, 168);
+}
+
+.main-container {
+    background-color: white;
+    padding: 2% 10% 2% 10%;
+    margin: 5% 20%;
+    border-radius: 20px;
+}
+
+.hidden {
+    display: none;
+}
